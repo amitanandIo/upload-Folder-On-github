@@ -1,30 +1,21 @@
 # upload-Folder-On-github
 
-1st way
+
 ## Copy repository from local to Remote
 <ul>
 <li><a>git config --global user.name "amitanandIo"</a></li>
 <li><a>git config --global user.email amita.ic.19@nitj.ac.in</a></li>
   go to remote repository and copy thier code.
-goto local repository and in document /open git bash here by right click.
+  goto local repository and in document /open git bash here by right click.
   type following command.....
-git clone repository url
-insert all folder in this newly created folder.
-open git bash here again
+  git clone repository url
+  insert all folder in this newly created folder.
+  open git bash here again
 <li><a>git init</a></li>
 <li><a>git add .</a></li>
 <li><a>git commit-m "updating"</a></li>
 <li><a>git push -u origin main</a></li>
 </ul>
-
-git config --global user.name "amitanandIo"
-
-
-
-
-
-git commit-m "updating"
-git push -u origin main
 
 
 ## Host Website on Github
