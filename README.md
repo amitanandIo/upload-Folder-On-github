@@ -2,6 +2,10 @@
 
 1st way
 ## Copy repository from local to Remote
+<ul>
+<li><a>Jobs</a></li>
+</ul>
+
 git config --global user.name "amitanandIo"
 git config --global user.email amita.ic.19@nitj.ac.in
 go to remote repository and copy thier code.
